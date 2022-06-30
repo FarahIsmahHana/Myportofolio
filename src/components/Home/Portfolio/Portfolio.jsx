@@ -7,8 +7,8 @@ const data = [
     id: 1,
     image: IMG1,
     title: "Ecommerce Shop Website Application",
-    github: "https://github.com/FarahIsmahHana/mernProjectAkhirEcommerce",
-    demo: "https://proyekstudikasus.herokuapp.com/",
+    github: "https://github.com/FarahIsmahHana/mern-ProjectEcommerce",
+    demo: "https://ecommerce-ku.herokuapp.com/",
   },
 ];
 
